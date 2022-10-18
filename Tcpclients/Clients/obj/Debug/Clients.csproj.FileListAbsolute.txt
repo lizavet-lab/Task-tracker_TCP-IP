@@ -1,0 +1,64 @@
+D:\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.Form2.resources
+D:\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.Properties.Resources.resources
+D:\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.csproj.GenerateResource.Cache
+D:\Аппарат Гос. Совета\Clients\Clients\bin\Debug\Clients.exe.config
+D:\Аппарат Гос. Совета\Clients\Clients\bin\Debug\Clients.exe
+D:\Аппарат Гос. Совета\Clients\Clients\bin\Debug\Clients.pdb
+D:\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.Form3.resources
+D:\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.exe
+D:\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.pdb
+D:\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.Form1.resources
+D:\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.csproj.ResolveComReference.cache
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\bin\Debug\Clients.exe.config
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\bin\Debug\Clients.exe
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\bin\Debug\Clients.pdb
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.csproj.ResolveComReference.cache
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.Form1.resources
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.Form2.resources
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.Form3.resources
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.csproj.GenerateResource.Cache
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.exe
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Clients.pdb
+C:\Users\shoo\Desktop\Аппарат Гос. Совета\Clients\Clients\obj\Debug\Interop.MSXML2.dll
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\bin\Debug\Clients.exe.config
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\bin\Debug\Clients.exe
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\bin\Debug\Clients.pdb
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Interop.MSXML2.dll
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.csproj.ResolveComReference.cache
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.Form1.resources
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.Form2.resources
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.Form3.resources
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.csproj.GenerateResource.Cache
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.exe
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.pdb
+C:\Users\shoo\Desktop\Apparat\Clients\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\bin\Debug\Clients.exe.config
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\bin\Debug\Clients.exe
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\bin\Debug\Clients.pdb
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Interop.MSXML2.dll
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.csproj.ResolveComReference.cache
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.Form1.resources
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.Form2.resources
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.Form3.resources
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.csproj.GenerateResource.Cache
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.exe
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.pdb
+C:\Users\shoo\Desktop\Apparat\Tcpclients\Clients\obj\Debug\Clients.Form4.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\bin\Debug\Clients.exe.config
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\bin\Debug\Clients.exe
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\bin\Debug\Clients.pdb
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Interop.MSXML2.dll
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.csproj.ResolveComReference.cache
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.Form1.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.Form2.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.Form3.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.Form4.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.csproj.CopyComplete
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.exe
+C:\Users\lizgn\OneDrive\Рабочий стол\Apparat\Tcpclients\Clients\obj\Debug\Clients.pdb
